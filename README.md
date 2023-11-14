@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python, MySQL, HTML, CSS**
+- 💬 Ask me about **Python, PHP, MySQL, HTML, CSS, JavaScript**
 
 - ⚡ Fun fact **I'm a food enthusiast and love exploring different cuisines. Trying out new restaurants and experimenting with cooking at home is one of my favorite ways to unwind and indulge in culinary delights. Have any food recommendations? I'm all ears!"**
 
